@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/.gitignore": true,
+    "package-lock.json": true,
+    "**.lock": true,
+    "node_modules": true,
+    ".next": true,
+    "postcss.config.js": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.format": true
+  }
+}
