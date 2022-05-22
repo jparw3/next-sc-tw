@@ -1,9 +1,9 @@
 {
   "files.exclude": {
     "**/.gitignore": true,
-    "package-lock.json": true,
+    // "package-lock.json": true,
     "**.lock": true,
-    "node_modules": true,
+    // "node_modules": true,
     ".next": true,
     "postcss.config.js": true
   },
